@@ -1,0 +1,13 @@
+@tailwind preflight;
+
+body {
+    @apply .font-body .h-full;
+}
+
+@tailwind utilities;
+
+
+body {
+  margin-top:  200px;
+  background-color:  #202121;
+}
